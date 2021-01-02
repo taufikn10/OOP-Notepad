@@ -14,3 +14,8 @@ Berikut cuplikan pada edit dan help
 ![l57480FYeDlhrnBZmB](https://user-images.githubusercontent.com/56226681/103453044-6422a000-4d08-11eb-9b7a-4e54621ffce4.gif)
 2. fitur cut dan help \
 ![sqY9XZpJiVwYZyCJvD](https://user-images.githubusercontent.com/56226681/103453047-65ec6380-4d08-11eb-8854-6766180c4460.gif)
+
+disini saya membuat applikasi notepad menggunakan intellij idea comunity untuk cara build applikasinya bisa dilihat di website resimnya : \
+https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html#run_jar_artifact
+
+
