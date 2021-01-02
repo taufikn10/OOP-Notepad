@@ -10,7 +10,7 @@ Berikut cuplikan topbar pada file
 ![MoSs34fv7u3DUY2BsA](https://user-images.githubusercontent.com/56226681/103453045-6553cd00-4d08-11eb-8ccf-8980d59b7986.gif)
 
 Berikut cuplikan pada edit dan help
-1. fitur copy, paste, select all \
+1. fitur copy, paste, dan select all \
 ![l57480FYeDlhrnBZmB](https://user-images.githubusercontent.com/56226681/103453044-6422a000-4d08-11eb-9b7a-4e54621ffce4.gif)
 2. fitur cut dan help \
 ![sqY9XZpJiVwYZyCJvD](https://user-images.githubusercontent.com/56226681/103453047-65ec6380-4d08-11eb-8854-6766180c4460.gif)
